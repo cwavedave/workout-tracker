@@ -14,4 +14,4 @@ https://sheety.co/
 <br>
 <br>
 Logs workouts here <br>
-https://docs.google.com/spreadsheets/d/1lF69RD11YyzbfHK3I3Aots5xfSHM4BVLmVtufN7HnK8/edit#gid=0
+https://docs.google.com/spreadsheets/d/1lF69RD11YyzbfHK3I3Aots5xfSHM4BVLmVtufN7HnK8/edit?usp=sharing
