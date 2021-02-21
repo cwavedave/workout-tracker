@@ -10,3 +10,8 @@ https://docs.google.com/document/d/1_q-K-ObMTZvO0qUEAxROrN3bwMujwAN25sLHwJzliK0/
 <br>
 Sheety API <br>
 https://sheety.co/
+
+<br>
+<br>
+Logs workouts here <br>
+https://docs.google.com/spreadsheets/d/1lF69RD11YyzbfHK3I3Aots5xfSHM4BVLmVtufN7HnK8/edit#gid=0
