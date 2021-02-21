@@ -8,6 +8,3 @@ https://docs.google.com/document/d/1_q-K-ObMTZvO0qUEAxROrN3bwMujwAN25sLHwJzliK0/
 <br>
 Sheety API <br>
 https://sheety.co/
-
-
-test
